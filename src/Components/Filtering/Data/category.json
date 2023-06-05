@@ -1,0 +1,23 @@
+[
+    {
+      "value": "",
+      "label": "All Food"
+    },
+    {
+      "value": "breakfast",
+      "label": "breakfast"
+    },
+    {
+      "value": "lunch",
+      "label": "lunch"
+    },
+    {
+      "value": "shakes",
+      "label": "shakes"
+    },
+    {
+      "value": "food",
+      "label": "food"
+    }
+  ]
+  

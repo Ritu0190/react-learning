@@ -1,0 +1,23 @@
+[
+    {
+      "value": "todays",
+      "label": "Today's tasks"
+    },
+    {
+      "value": "important",
+      "label": "Important tasks"
+    },
+    {
+      "value": "completed",
+      "label": "Completed tasks"
+    },
+    {
+      "value": "uncompleted",
+      "label": "Uncompleted tasks"
+    },
+    {
+      "value": "",
+      "label": "earlier first"
+    }
+  ]
+  

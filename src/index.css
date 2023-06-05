@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.openlyout {
+  display: none;
+}
+
+.cart-wrap {
+  right: -350px;
+  transition: all 0.5s ease-in-out;
+}
+
+.cart-wrap.show {
+  right: 0;
+}
+
+span.success{
+  border: 1px solid;
+  animation: move 3s infinite forwards;
+  animation-delay: 1s;
+  overflow: hidden;
+}
+/* span.success:after {
+  content:'';
+  width: 100%;
+  height: 3px;
+  position: absolute;
+  bottom:0;
+  right:0;
+  
+  margin: auto;
+  animation: widthMove 3s infinite ease-in;
+  animation-delay: 1s;
+}
+
+
+@keyframes widthMove{
+  0% { width: 100%}
+  10% { width: 90%}
+  20% { width: 90%}
+  30% { width: 70%}
+  40% { width: 70%}
+  50% { width: 50%}
+  60% { width: 50%}
+  70% { width: 30%}
+  80% { width: 30%}
+  90% { width: 10%}
+  100% { width: 0}
+} */
+
+.sideNav button {
+  position: relative;
+}
+.sideNav button.active {
+  background:rgb(237 233 254/var(--tw-bg-opacity))
+}
+.sideNav button:after {
+  content:'';
+  width: 4px;
+  height: 100%;
+  background: transparent;
+  position: absolute;
+  top:0;
+  bottom:0;
+  right: 0;
+}
+.sideNav button.active {
+  color: rgb(225 29 72)
+}
+.sideNav button.active:after {
+  background: rgb(225 29 72);
+}
+
+#list.active,#grid.active {
+  color: rgb(109 40 217 / var(--tw-bg-opacity))
+}

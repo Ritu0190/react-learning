@@ -1,0 +1,1368 @@
+[
+    {
+      "title": "The Godfather",
+      "year": "1972",
+      "runtime": "175 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"],
+      "plot": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "posterUrl": "/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": "1994",
+      "runtime": "142 min",
+      "genre": ["Drama"],
+      "directors": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"],
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "posterUrl": "/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Schindler's List",
+      "year": "1993",
+      "runtime": "195 min",
+      "genre": ["Biography", "Drama", "History"],
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley",
+        "Caroline Goodall"
+      ],
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "posterUrl": "/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Raging Bull",
+      "year": "1980",
+      "runtime": "129 min",
+      "genre": ["Biography", "Drama", "Sport"],
+      "directors": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Cathy Moriarty",
+        "Joe Pesci",
+        "Frank Vincent"
+      ],
+      "plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "posterUrl": "/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Casablanca",
+      "year": "1942",
+      "runtime": "102 min",
+      "genre": ["Drama", "Romance", "War"],
+      "directors": "Michael Curtiz",
+      "actors": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid",
+        "Claude Rains"
+      ],
+      "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+      "posterUrl": "/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Citizen Kane",
+      "year": "1941",
+      "runtime": "119 min",
+      "genre": ["Drama", "Mystery"],
+      "directors": "Orson Welles",
+      "actors": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Dorothy Comingore",
+        "Agnes Moorehead"
+      ],
+      "plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+      "posterUrl": "/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Gone with the Wind",
+      "year": "1939",
+      "runtime": "238 min",
+      "genre": ["Drama", "Romance", "War"],
+      "directors": "Victor Fleming",
+      "actors": [
+        "Sam Wood",
+        "|",
+        "Clark Gable",
+        "Vivien Leigh",
+        "Thomas Mitchell",
+        "Barbara O'Neil"
+      ],
+      "plot": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+      "posterUrl": "/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Wizard of Oz",
+      "year": "1939",
+      "runtime": "102 min",
+      "genre": ["Adventure", "Family", "Fantasy"],
+      "directors": "Victor Fleming",
+      "actors": [
+        "Mervyn LeRoy",
+        "Norman Taurog",
+        "Richard Thorpe",
+        "King Vidor",
+        "|",
+        "Judy Garland",
+        "Frank Morgan",
+        "Ray Bolger",
+        "Bert Lahr"
+      ],
+      "plot": "Young Dorothy Gale and her dog are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+      "posterUrl": "/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": "1975",
+      "runtime": "133 min",
+      "genre": ["Drama"],
+      "directors": "Milos Forman",
+      "actors": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Michael Berryman",
+        "Peter Brocco"
+      ],
+      "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+      "posterUrl": "/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": "1962",
+      "runtime": "218 min",
+      "genre": ["Adventure", "Biography", "Drama"],
+      "directors": "David Lean",
+      "actors": [
+        "Peter O'Toole",
+        "Alec Guinness",
+        "Anthony Quinn",
+        "Jack Hawkins"
+      ],
+      "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+      "posterUrl": "/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Vertigo",
+      "year": "1958",
+      "runtime": "128 min",
+      "genre": ["Mystery", "Romance", "Thriller"],
+      "directors": "Alfred Hitchcock",
+      "actors": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore"
+      ],
+      "plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+      "posterUrl": "/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Psycho",
+      "year": "1960",
+      "runtime": "109 min",
+      "genre": ["Horror", "Mystery", "Thriller"],
+      "directors": "Alfred Hitchcock",
+      "actors": ["Anthony Perkins", "Janet Leigh", "Vera Miles", "John Gavin"],
+      "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+      "posterUrl": "/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": "1974",
+      "runtime": "202 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Francis Ford Coppola",
+      "actors": ["Al Pacino", "Robert De Niro", "Robert Duvall", "Diane Keaton"],
+      "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "posterUrl": "/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "On the Waterfront",
+      "year": "1954",
+      "runtime": "108 min",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "directors": "Elia Kazan",
+      "actors": ["Marlon Brando", "Karl Malden", "Lee J. Cobb", "Rod Steiger"],
+      "plot": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+      "posterUrl": "/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Sunset Blvd.",
+      "year": "1950",
+      "runtime": "110 min",
+      "genre": ["Drama", "Film-Noir"],
+      "directors": "Billy Wilder",
+      "actors": [
+        "William Holden",
+        "Gloria Swanson",
+        "Erich von Stroheim",
+        "Nancy Olson"
+      ],
+      "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+      "posterUrl": "/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Forrest Gump",
+      "year": "1994",
+      "runtime": "142 min",
+      "genre": ["Drama", "Romance"],
+      "directors": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"],
+      "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "posterUrl": "/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Sound of Music",
+      "year": "1965",
+      "runtime": "172 min",
+      "genre": ["Biography", "Drama", "Family"],
+      "directors": "Robert Wise",
+      "actors": [
+        "Julie Andrews",
+        "Christopher Plummer",
+        "Eleanor Parker",
+        "Richard Haydn"
+      ],
+      "plot": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+      "posterUrl": "/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR3,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": "1957",
+      "runtime": "96 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Sidney Lumet",
+      "actors": ["Henry Fonda", "Lee J. Cobb", "Martin Balsam", "John Fiedler"],
+      "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "posterUrl": "/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "West Side Story",
+      "year": "1961",
+      "runtime": "153 min",
+      "genre": ["Crime", "Drama", "Musical"],
+      "directors": "Jerome Robbins",
+      "actors": [
+        "|",
+        "Natalie Wood",
+        "George Chakiris",
+        "Richard Beymer",
+        "Russ Tamblyn"
+      ],
+      "plot": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+      "posterUrl": "/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Star Wars",
+      "year": "1977",
+      "runtime": "121 min",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "directors": "George Lucas",
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Alec Guinness"
+      ],
+      "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+      "posterUrl": "/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": "1968",
+      "runtime": "149 min",
+      "genre": ["Adventure", "Sci-Fi"],
+      "directors": "Stanley Kubrick",
+      "actors": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester",
+        "Daniel Richter"
+      ],
+      "plot": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+      "posterUrl": "/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "year": "1982",
+      "runtime": "115 min",
+      "genre": ["Adventure", "Family", "Sci-Fi"],
+      "directors": "Steven Spielberg",
+      "actors": ["Henry Thomas", "Drew Barrymore", "Peter Coyote", "Dee Wallace"],
+      "plot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+      "posterUrl": "/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "runtime": "118 min",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "directors": "Jonathan Demme",
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney",
+        "Kasi Lemmons"
+      ],
+      "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "posterUrl": "/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Chinatown",
+      "year": "1974",
+      "runtime": "130 min",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "directors": "Roman Polanski",
+      "actors": ["Jack Nicholson", "Faye Dunaway", "John Huston", "Perry Lopez"],
+      "plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+      "posterUrl": "/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "year": "1957",
+      "runtime": "161 min",
+      "genre": ["Adventure", "Drama", "War"],
+      "directors": "David Lean",
+      "actors": [
+        "William Holden",
+        "Alec Guinness",
+        "Jack Hawkins",
+        "Sessue Hayakawa"
+      ],
+      "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+      "posterUrl": "/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Singin' in the Rain",
+      "year": "1952",
+      "runtime": "103 min",
+      "genre": ["Comedy", "Musical", "Romance"],
+      "directors": "Stanley Donen",
+      "actors": [
+        "|",
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds",
+        "Jean Hagen"
+      ],
+      "plot": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+      "posterUrl": "/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": "1946",
+      "runtime": "130 min",
+      "genre": ["Drama", "Family", "Fantasy"],
+      "directors": "Frank Capra",
+      "actors": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell"
+      ],
+      "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+      "posterUrl": "/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": "1964",
+      "runtime": "95 min",
+      "genre": ["Comedy", "War"],
+      "directors": "Stanley Kubrick",
+      "actors": [
+        "Peter Sellers",
+        "George C. Scott",
+        "Sterling Hayden",
+        "Keenan Wynn"
+      ],
+      "plot": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+      "posterUrl": "/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Some Like It Hot",
+      "year": "1959",
+      "runtime": "121 min",
+      "genre": ["Comedy", "Music", "Romance"],
+      "directors": "Billy Wilder",
+      "actors": ["Marilyn Monroe", "Tony Curtis", "Jack Lemmon", "George Raft"],
+      "plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+      "posterUrl": "/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Ben-Hur",
+      "year": "1959",
+      "runtime": "212 min",
+      "genre": ["Adventure", "Drama", "History"],
+      "directors": "William Wyler",
+      "actors": [
+        "Charlton Heston",
+        "Jack Hawkins",
+        "Stephen Boyd",
+        "Haya Harareet"
+      ],
+      "plot": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+      "posterUrl": "/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": "1979",
+      "runtime": "147 min",
+      "genre": ["Drama", "Mystery", "War"],
+      "directors": "Francis Ford Coppola",
+      "actors": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Robert Duvall",
+        "Frederic Forrest"
+      ],
+      "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "posterUrl": "/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Amadeus",
+      "year": "1984",
+      "runtime": "160 min",
+      "genre": ["Biography", "Drama", "Music"],
+      "directors": "Milos Forman",
+      "actors": [
+        "F. Murray Abraham",
+        "Tom Hulce",
+        "Elizabeth Berridge",
+        "Roy Dotrice"
+      ],
+      "plot": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+      "posterUrl": "/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": "2003",
+      "runtime": "201 min",
+      "genre": ["Action", "Adventure", "Drama"],
+      "directors": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ],
+      "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "posterUrl": "/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Gladiator",
+      "year": "2000",
+      "runtime": "155 min",
+      "genre": ["Action", "Adventure", "Drama"],
+      "directors": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed"
+      ],
+      "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "posterUrl": "/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Titanic",
+      "year": "1997",
+      "runtime": "194 min",
+      "genre": ["Drama", "Romance"],
+      "directors": "James Cameron",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates"
+      ],
+      "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "posterUrl": "/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "From Here to Eternity",
+      "year": "1953",
+      "runtime": "118 min",
+      "genre": ["Drama", "Romance", "War"],
+      "directors": "Fred Zinnemann",
+      "actors": [
+        "Burt Lancaster",
+        "Montgomery Clift",
+        "Deborah Kerr",
+        "Donna Reed"
+      ],
+      "plot": "At a U.S. Army base in 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his commanding officer's wife and top aide begin a tentative affair.",
+      "posterUrl": "/M/MV5BM2U3YzkxNGMtYWE0YS00ODk0LTk1ZGEtNjk3ZTE0MTk4MzJjXkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": "1998",
+      "runtime": "169 min",
+      "genre": ["Drama", "War"],
+      "directors": "Steven Spielberg",
+      "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore", "Edward Burns"],
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "posterUrl": "/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Unforgiven",
+      "year": "1992",
+      "runtime": "130 min",
+      "genre": ["Drama", "Western"],
+      "directors": "Clint Eastwood",
+      "actors": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Morgan Freeman",
+        "Richard Harris"
+      ],
+      "plot": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+      "posterUrl": "/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": "1981",
+      "runtime": "115 min",
+      "genre": ["Action", "Adventure"],
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman",
+        "John Rhys-Davies"
+      ],
+      "plot": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+      "posterUrl": "/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Rocky",
+      "year": "1976",
+      "runtime": "120 min",
+      "genre": ["Drama", "Sport"],
+      "directors": "John G. Avildsen",
+      "actors": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young",
+        "Carl Weathers"
+      ],
+      "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+      "posterUrl": "/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "year": "1951",
+      "runtime": "122 min",
+      "genre": ["Drama"],
+      "directors": "Elia Kazan",
+      "actors": ["Vivien Leigh", "Marlon Brando", "Kim Hunter", "Karl Malden"],
+      "plot": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+      "posterUrl": "/M/MV5BNzk2M2Y3MzYtNGMzMi00Y2FjLTkwODQtNmExYWU3ZWY3NzExXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Philadelphia Story",
+      "year": "1940",
+      "runtime": "112 min",
+      "genre": ["Comedy", "Romance"],
+      "directors": "George Cukor",
+      "actors": [
+        "Cary Grant",
+        "Katharine Hepburn",
+        "James Stewart",
+        "Ruth Hussey"
+      ],
+      "plot": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+      "posterUrl": "/M/MV5BYjQ4ZDA4NGMtMTkwYi00NThiLThhZDUtZTEzNTAxOWYyY2E4XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "year": "1962",
+      "runtime": "129 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Robert Mulligan",
+      "actors": [
+        "Gregory Peck",
+        "John Megna",
+        "Frank Overton",
+        "Rosemary Murphy"
+      ],
+      "plot": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+      "posterUrl": "/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "An American in Paris",
+      "year": "1951",
+      "runtime": "114 min",
+      "genre": ["Drama", "Musical", "Romance"],
+      "directors": "Vincente Minnelli",
+      "actors": ["Gene Kelly", "Leslie Caron", "Oscar Levant", "Georges Guétary"],
+      "plot": "Three friends struggle to find work in Paris. Things become more complicated when two of them fall in love with the same woman.",
+      "posterUrl": "/M/MV5BMzFkNGM0YTUtZjY5Ny00NzBkLWE1NTAtYzUxNjUyZmJlODMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "year": "1946",
+      "runtime": "170 min",
+      "genre": ["Drama", "Romance", "War"],
+      "directors": "William Wyler",
+      "actors": ["Myrna Loy", "Dana Andrews", "Fredric March", "Teresa Wright"],
+      "plot": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+      "posterUrl": "/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "My Fair Lady",
+      "year": "1964",
+      "runtime": "170 min",
+      "genre": ["Drama", "Family", "Musical"],
+      "directors": "George Cukor",
+      "actors": [
+        "Audrey Hepburn",
+        "Rex Harrison",
+        "Stanley Holloway",
+        "Wilfrid Hyde-White"
+      ],
+      "plot": "In 1910s London, snobbish phonetics professor Henry Higgins agrees to a wager that he can make crude flower girl, Eliza Doolittle, presentable in high society.",
+      "posterUrl": "/M/MV5BNGM0ZTU3NmItZmRmMy00YWNjLWEzMWItYzg3MzcwZmM5NjdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY209_CR6,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": "1971",
+      "runtime": "136 min",
+      "genre": ["Crime", "Sci-Fi"],
+      "directors": "Stanley Kubrick",
+      "actors": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates",
+        "Warren Clarke"
+      ],
+      "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "posterUrl": "/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Doctor Zhivago",
+      "year": "1965",
+      "runtime": "197 min",
+      "genre": ["Drama", "Romance", "War"],
+      "directors": "David Lean",
+      "actors": [
+        "Omar Sharif",
+        "Julie Christie",
+        "Geraldine Chaplin",
+        "Rod Steiger"
+      ],
+      "plot": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+      "posterUrl": "/M/MV5BNzdmZTk4MTktZmExNi00OWEwLTgxZDctNTE4NWMwNjc1Nzg2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Searchers",
+      "year": "1956",
+      "runtime": "119 min",
+      "genre": ["Adventure", "Drama", "Western"],
+      "directors": "John Ford",
+      "actors": ["John Wayne", "Jeffrey Hunter", "Vera Miles", "Ward Bond"],
+      "plot": "An American Civil War veteran embarks on a years-long journey to rescue his niece from the Comanches after the rest of his brother's family is massacred in a raid on their Texas farm.",
+      "posterUrl": "/M/MV5BYWQ3YWJiMDEtMDBhNS00YjY1LTkzNmEtY2U4Njg4MjQ3YWE3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Jaws",
+      "year": "1975",
+      "runtime": "124 min",
+      "genre": ["Adventure", "Thriller"],
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss",
+        "Lorraine Gary"
+      ],
+      "plot": "When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+      "posterUrl": "/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Patton",
+      "year": "1970",
+      "runtime": "172 min",
+      "genre": ["Biography", "Drama", "War"],
+      "directors": "Franklin J. Schaffner",
+      "actors": [
+        "George C. Scott",
+        "Karl Malden",
+        "Stephen Young",
+        "Michael Strong"
+      ],
+      "plot": "The World War II phase of the career of controversial American general George S. Patton.",
+      "posterUrl": "/M/MV5BMmNhZmJhMmYtNjlkMC00MjhjLTk1NzMtMTNlMzYzNjZlMjNiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": "1969",
+      "runtime": "110 min",
+      "genre": ["Biography", "Crime", "Drama"],
+      "directors": "George Roy Hill",
+      "actors": [
+        "Paul Newman",
+        "Robert Redford",
+        "Katharine Ross",
+        "Strother Martin"
+      ],
+      "plot": "Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.",
+      "posterUrl": "/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "year": "1948",
+      "runtime": "126 min",
+      "genre": ["Adventure", "Drama", "Western"],
+      "directors": "John Huston",
+      "actors": ["Humphrey Bogart", "Walter Huston", "Tim Holt", "Bruce Bennett"],
+      "plot": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "posterUrl": "/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Il buono, il brutto, il cattivo",
+      "year": "1966",
+      "runtime": "161 min",
+      "genre": ["Adventure", "Western"],
+      "directors": "Sergio Leone",
+      "actors": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef",
+        "Aldo Giuffrè"
+      ],
+      "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+      "posterUrl": "/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Apartment",
+      "year": "1960",
+      "runtime": "125 min",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "directors": "Billy Wilder",
+      "actors": [
+        "Jack Lemmon",
+        "Shirley MacLaine",
+        "Fred MacMurray",
+        "Ray Walston"
+      ],
+      "plot": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+      "posterUrl": "/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Platoon",
+      "year": "1986",
+      "runtime": "120 min",
+      "genre": ["Drama", "War"],
+      "directors": "Oliver Stone",
+      "actors": ["Charlie Sheen", "Tom Berenger", "Willem Dafoe", "Keith David"],
+      "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+      "posterUrl": "/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "High Noon",
+      "year": "1952",
+      "runtime": "85 min",
+      "genre": ["Drama", "Thriller", "Western"],
+      "directors": "Fred Zinnemann",
+      "actors": [
+        "Gary Cooper",
+        "Grace Kelly",
+        "Thomas Mitchell",
+        "Lloyd Bridges"
+      ],
+      "plot": "A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at \"high noon\" when the gang leader, an outlaw he \"sent up\" years ago, arrives on the noon train.",
+      "posterUrl": "/M/MV5BOWIzZGUxZmItOThkMS00Y2QxLTg0MTYtMDdhMjRlNTNlYTI3L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Braveheart",
+      "year": "1995",
+      "runtime": "178 min",
+      "genre": ["Biography", "Drama", "History"],
+      "directors": "Mel Gibson",
+      "actors": [
+        "Mel Gibson",
+        "Sophie Marceau",
+        "Patrick McGoohan",
+        "Angus Macfadyen"
+      ],
+      "plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "posterUrl": "/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Dances with Wolves",
+      "year": "1990",
+      "runtime": "181 min",
+      "genre": ["Adventure", "Drama", "Western"],
+      "directors": "Kevin Costner",
+      "actors": [
+        "Kevin Costner",
+        "Mary McDonnell",
+        "Graham Greene",
+        "Rodney A. Grant"
+      ],
+      "plot": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+      "posterUrl": "/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Jurassic Park",
+      "year": "1993",
+      "runtime": "127 min",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum",
+        "Richard Attenborough"
+      ],
+      "plot": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "posterUrl": "/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Exorcist",
+      "year": "1973",
+      "runtime": "122 min",
+      "genre": ["Horror"],
+      "directors": "William Friedkin",
+      "actors": ["Ellen Burstyn", "Max von Sydow", "Linda Blair", "Lee J. Cobb"],
+      "plot": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+      "posterUrl": "/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Pianist",
+      "year": "2002",
+      "runtime": "150 min",
+      "genre": ["Biography", "Drama", "Music"],
+      "directors": "Roman Polanski",
+      "actors": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Frank Finlay",
+        "Emilia Fox"
+      ],
+      "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+      "posterUrl": "/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Goodfellas",
+      "year": "1990",
+      "runtime": "145 min",
+      "genre": ["Biography", "Crime", "Drama"],
+      "directors": "Martin Scorsese",
+      "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci", "Lorraine Bracco"],
+      "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "posterUrl": "/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Deer Hunter",
+      "year": "1978",
+      "runtime": "183 min",
+      "genre": ["Drama", "War"],
+      "directors": "Michael Cimino",
+      "actors": [
+        "Robert De Niro",
+        "Christopher Walken",
+        "John Cazale",
+        "John Savage"
+      ],
+      "plot": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+      "posterUrl": "/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "year": "1930",
+      "runtime": "152 min",
+      "genre": ["Drama", "War"],
+      "directors": "Lewis Milestone",
+      "actors": ["Lew Ayres", "Louis Wolheim", "John Wray", "Arnold Lucy"],
+      "plot": "A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.",
+      "posterUrl": "/M/MV5BMDdlMzRjM2MtNjcxNy00MjgyLTkyZmYtY2ExODM0OTBkMzI0XkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Bonnie and Clyde",
+      "year": "1967",
+      "runtime": "111 min",
+      "genre": ["Action", "Biography", "Crime"],
+      "directors": "Arthur Penn",
+      "actors": [
+        "Warren Beatty",
+        "Faye Dunaway",
+        "Michael J. Pollard",
+        "Gene Hackman"
+      ],
+      "plot": "Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+      "posterUrl": "/M/MV5BMTNjNzBlY2QtNmY1Ni00MzhkLThmODgtMzc3ZDQ0YzJjZjNlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The French Connection",
+      "year": "1971",
+      "runtime": "104 min",
+      "genre": ["Action", "Crime", "Drama"],
+      "directors": "William Friedkin",
+      "actors": [
+        "Gene Hackman",
+        "Roy Scheider",
+        "Fernando Rey",
+        "Tony Lo Bianco"
+      ],
+      "plot": "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal.",
+      "posterUrl": "/M/MV5BOTZhY2E3NmItMGIwNi00OTA2LThkYmEtODFiZTM0NGI0ZWU5XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UY209_CR4,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "City Lights",
+      "year": "1931",
+      "runtime": "87 min",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "directors": "Charles Chaplin",
+      "actors": [
+        "Charles Chaplin",
+        "Virginia Cherrill",
+        "Florence Lee",
+        "Harry Myers"
+      ],
+      "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+      "posterUrl": "/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "It Happened One Night",
+      "year": "1934",
+      "runtime": "105 min",
+      "genre": ["Comedy", "Romance"],
+      "directors": "Frank Capra",
+      "actors": [
+        "Clark Gable",
+        "Claudette Colbert",
+        "Walter Connolly",
+        "Roscoe Karns"
+      ],
+      "plot": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.",
+      "posterUrl": "/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "A Place in the Sun",
+      "year": "1951",
+      "runtime": "122 min",
+      "genre": ["Drama", "Romance"],
+      "directors": "George Stevens",
+      "actors": [
+        "Montgomery Clift",
+        "Elizabeth Taylor",
+        "Shelley Winters",
+        "Anne Revere"
+      ],
+      "plot": "A poor boy gets a job working for his rich uncle and ends up falling in love with two women.",
+      "posterUrl": "/M/MV5BMmNjMjE2ZDMtODQzYS00ZDc2LTk0ODgtNjI1NTNhZWI5MmE0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Midnight Cowboy",
+      "year": "1969",
+      "runtime": "113 min",
+      "genre": ["Drama"],
+      "directors": "John Schlesinger",
+      "actors": ["Dustin Hoffman", "Jon Voight", "Sylvia Miles", "John McGiver"],
+      "plot": "A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.",
+      "posterUrl": "/M/MV5BNTgwZmIzMmYtZjE3Yy00NzgzLTgxNmUtNjlmZDlkMzlhOTJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Mr. Smith Goes to Washington",
+      "year": "1939",
+      "runtime": "129 min",
+      "genre": ["Comedy", "Drama"],
+      "directors": "Frank Capra",
+      "actors": ["James Stewart", "Jean Arthur", "Claude Rains", "Edward Arnold"],
+      "plot": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+      "posterUrl": "/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Rain Man",
+      "year": "1988",
+      "runtime": "133 min",
+      "genre": ["Drama"],
+      "directors": "Barry Levinson",
+      "actors": [
+        "Dustin Hoffman",
+        "Tom Cruise",
+        "Valeria Golino",
+        "Gerald R. Molen"
+      ],
+      "plot": "After a selfish L.A. yuppie learns his estranged father left a fortune to an autistic-savant brother in Ohio that he didn't know existed, he absconds with his brother and sets out across the country, hoping to gain a larger inheritance.",
+      "posterUrl": "/M/MV5BMzVjNzI4NzYtMjE4NS00M2IzLWFkOWMtOTYwMWUzN2ZlNGVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Annie Hall",
+      "year": "1977",
+      "runtime": "93 min",
+      "genre": ["Comedy", "Romance"],
+      "directors": "Woody Allen",
+      "actors": ["Woody Allen", "Diane Keaton", "Tony Roberts", "Carol Kane"],
+      "plot": "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+      "posterUrl": "/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Fargo",
+      "year": "1996",
+      "runtime": "98 min",
+      "genre": ["Crime", "Thriller"],
+      "directors": "Joel Coen",
+      "actors": [
+        "|",
+        "William H. Macy",
+        "Frances McDormand",
+        "Steve Buscemi",
+        "Peter Stormare"
+      ],
+      "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "posterUrl": "/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Giant",
+      "year": "1956",
+      "runtime": "201 min",
+      "genre": ["Drama", "Western"],
+      "directors": "George Stevens",
+      "actors": [
+        "Elizabeth Taylor",
+        "Rock Hudson",
+        "James Dean",
+        "Carroll Baker"
+      ],
+      "plot": "Sprawling epic covering the life of a Texas cattle rancher and his family and associates.",
+      "posterUrl": "/M/MV5BMDQwOWQ0OGItNjJjYi00YzVjLTk4NmUtYzQ0NzUwZGY3NDZjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Shane",
+      "year": "1953",
+      "runtime": "118 min",
+      "genre": ["Drama", "Western"],
+      "directors": "George Stevens",
+      "actors": ["Alan Ladd", "Jean Arthur", "Van Heflin", "Brandon De Wilde"],
+      "plot": "A weary gunfighter in 1880s Wyoming begins to envision a quieter life after befriending a homestead family with a young son who idolizes him, but a smoldering range war forces him to act.",
+      "posterUrl": "/M/MV5BYzMzZmJjZGItMjY2OC00ZDcxLWI1YjQtMTU1MjQwN2NlNzIyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "year": "1940",
+      "runtime": "129 min",
+      "genre": ["Drama"],
+      "directors": "John Ford",
+      "actors": [
+        "Henry Fonda",
+        "Jane Darwell",
+        "John Carradine",
+        "Charley Grapewin"
+      ],
+      "plot": "An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+      "posterUrl": "/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Green Mile",
+      "year": "1999",
+      "runtime": "189 min",
+      "genre": ["Crime", "Drama", "Fantasy"],
+      "directors": "Frank Darabont",
+      "actors": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse",
+        "Bonnie Hunt"
+      ],
+      "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "posterUrl": "/M/MV5BYjAxOWIzZmUtYzNiZi00OTUyLWE1YjgtMzI5ZTNkNmU5N2IxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "year": "1977",
+      "runtime": "138 min",
+      "genre": ["Drama", "Sci-Fi"],
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Richard Dreyfuss",
+        "François Truffaut",
+        "Teri Garr",
+        "Melinda Dillon"
+      ],
+      "plot": "Roy Neary, an Indiana electric lineman, finds his quiet and ordinary daily life turned upside down after a close encounter with a UFO, spurring him to an obsessed cross-country quest for answers as a momentous event approaches.",
+      "posterUrl": "/M/MV5BMjM1NjE5NjQxN15BMl5BanBnXkFtZTgwMjYzMzQxMDE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Nashville",
+      "year": "1975",
+      "runtime": "160 min",
+      "genre": ["Comedy", "Drama", "Music"],
+      "directors": "Robert Altman",
+      "actors": [
+        "Keith Carradine",
+        "Karen Black",
+        "Ronee Blakley",
+        "Shelley Duvall"
+      ],
+      "plot": "Over the course of a few hectic days, numerous interrelated people prepare for a political convention.",
+      "posterUrl": "/M/MV5BMDY0MzE3YWQtZTAzMS00ZmRlLWE3NzYtMjk0NDlkMmE4N2U2XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Network",
+      "year": "1976",
+      "runtime": "121 min",
+      "genre": ["Drama"],
+      "directors": "Sidney Lumet",
+      "actors": [
+        "Faye Dunaway",
+        "William Holden",
+        "Peter Finch",
+        "Robert Duvall"
+      ],
+      "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+      "posterUrl": "/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Graduate",
+      "year": "1967",
+      "runtime": "106 min",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "directors": "Mike Nichols",
+      "actors": [
+        "Dustin Hoffman",
+        "Anne Bancroft",
+        "Katharine Ross",
+        "William Daniels"
+      ],
+      "plot": "A disillusioned college graduate finds himself torn between his older lover and her daughter.",
+      "posterUrl": "/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "American Graffiti",
+      "year": "1973",
+      "runtime": "110 min",
+      "genre": ["Comedy", "Drama"],
+      "directors": "George Lucas",
+      "actors": [
+        "Richard Dreyfuss",
+        "Ron Howard",
+        "Paul Le Mat",
+        "Charles Martin Smith"
+      ],
+      "plot": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals.",
+      "posterUrl": "/M/MV5BMjI5NjM5MjIyNF5BMl5BanBnXkFtZTgwNjg2MTUxMDE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "runtime": "154 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson",
+        "Bruce Willis"
+      ],
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "posterUrl": "/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Terms of Endearment",
+      "year": "1983",
+      "runtime": "132 min",
+      "genre": ["Comedy", "Drama"],
+      "directors": "James L. Brooks",
+      "actors": [
+        "Shirley MacLaine",
+        "Debra Winger",
+        "Jack Nicholson",
+        "Danny DeVito"
+      ],
+      "plot": "Follows hard-to-please Aurora looking for love, and her daughter's family problems.",
+      "posterUrl": "/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": "1997",
+      "runtime": "126 min",
+      "genre": ["Drama", "Romance"],
+      "directors": "Gus Van Sant",
+      "actors": [
+        "Robin Williams",
+        "Matt Damon",
+        "Ben Affleck",
+        "Stellan Skarsgård"
+      ],
+      "plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+      "posterUrl": "/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The African Queen",
+      "year": "1951",
+      "runtime": "105 min",
+      "genre": ["Adventure", "Drama", "Romance"],
+      "directors": "John Huston",
+      "actors": [
+        "Humphrey Bogart",
+        "Katharine Hepburn",
+        "Robert Morley",
+        "Peter Bull"
+      ],
+      "plot": "In WWI East Africa, a gin-swilling Canadian riverboat captain is persuaded by a strait-laced English missionary to undertake a trip up a treacherous river and use his boat to attack a German gunship.",
+      "posterUrl": "/M/MV5BYzM3YjE2NGMtODY3Zi00NTY0LWE4Y2EtMTE5YzNmM2U1NTg2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Stagecoach",
+      "year": "1939",
+      "runtime": "96 min",
+      "genre": ["Adventure", "Drama", "Western"],
+      "directors": "John Ford",
+      "actors": ["John Wayne", "Claire Trevor", "Andy Devine", "John Carradine"],
+      "plot": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.",
+      "posterUrl": "/M/MV5BOGQ4NDUyNWQtZTEyOC00OTMzLWFhYjAtNDNmYmQ2MWQyMTRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "year": "1935",
+      "runtime": "132 min",
+      "genre": ["Adventure", "Biography", "Drama"],
+      "directors": "Frank Lloyd",
+      "actors": [
+        "Charles Laughton",
+        "Clark Gable",
+        "Franchot Tone",
+        "Herbert Mundin"
+      ],
+      "plot": "First mate Fletcher Christian leads a revolt against his sadistic commander, Captain Bligh, in this classic seafaring adventure, based on the real-life 1789 mutiny.",
+      "posterUrl": "/M/MV5BMDk0ODEzOTYtNjVkZi00NTNkLTkxNTgtYTM0NTk4ODc5ZTFkXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Great Dictator",
+      "year": "1940",
+      "runtime": "125 min",
+      "genre": ["Comedy", "Drama", "War"],
+      "directors": "Charles Chaplin",
+      "actors": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Jack Oakie",
+        "Reginald Gardiner"
+      ],
+      "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+      "posterUrl": "/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Double Indemnity",
+      "year": "1944",
+      "runtime": "107 min",
+      "genre": ["Crime", "Drama", "Film-Noir"],
+      "directors": "Billy Wilder",
+      "actors": [
+        "Fred MacMurray",
+        "Barbara Stanwyck",
+        "Edward G. Robinson",
+        "Byron Barr"
+      ],
+      "plot": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+      "posterUrl": "/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Maltese Falcon",
+      "year": "1941",
+      "runtime": "100 min",
+      "genre": ["Crime", "Film-Noir", "Mystery"],
+      "directors": "John Huston",
+      "actors": ["Humphrey Bogart", "Mary Astor", "Gladys George", "Peter Lorre"],
+      "plot": "San Francisco private detective Sam Spade takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette, with the stakes rising after his partner is murdered.",
+      "posterUrl": "/M/MV5BODQzYjY2NzAtMTVkOS00YTI1LTg2YzQtMWExOTY5ZmQ4ODU1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY209_CR7,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Wuthering Heights",
+      "year": "1939",
+      "runtime": "104 min",
+      "genre": ["Drama", "Romance"],
+      "directors": "William Wyler",
+      "actors": [
+        "Merle Oberon",
+        "Laurence Olivier",
+        "David Niven",
+        "Flora Robson"
+      ],
+      "plot": "A servant in the house of Wuthering Heights tells a traveler the unfortunate tale of lovers Cathy and Heathcliff.",
+      "posterUrl": "/M/MV5BMDAxZDkzNTktYzQyMi00YmRlLWFmYWQtY2Q4ZTQyMGFlMzNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Taxi Driver",
+      "year": "1976",
+      "runtime": "114 min",
+      "genre": ["Crime", "Drama"],
+      "directors": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd",
+        "Albert Brooks"
+      ],
+      "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+      "posterUrl": "/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Rear Window",
+      "year": "1954",
+      "runtime": "112 min",
+      "genre": ["Mystery", "Thriller"],
+      "directors": "Alfred Hitchcock",
+      "actors": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey",
+        "Thelma Ritter"
+      ],
+      "plot": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+      "posterUrl": "/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR1,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "The Third Man",
+      "year": "1949",
+      "runtime": "104 min",
+      "genre": ["Film-Noir", "Mystery", "Thriller"],
+      "directors": "Carol Reed",
+      "actors": ["Orson Welles", "Joseph Cotten", "Alida Valli", "Trevor Howard"],
+      "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "posterUrl": "/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Rebel Without a Cause",
+      "year": "1955",
+      "runtime": "111 min",
+      "genre": ["Drama"],
+      "directors": "Nicholas Ray",
+      "actors": ["James Dean", "Natalie Wood", "Sal Mineo", "Jim Backus"],
+      "plot": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies.",
+      "posterUrl": "/M/MV5BYzk2ZDU3MmMtMDBmMi00YWIyLTkxM2YtZjg3MzgyOTAzZjg0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "North by Northwest",
+      "year": "1959",
+      "runtime": "136 min",
+      "genre": ["Action", "Adventure", "Mystery"],
+      "directors": "Alfred Hitchcock",
+      "actors": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis"
+      ],
+      "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+      "posterUrl": "/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Yankee Doodle Dandy",
+      "year": "1942",
+      "runtime": "126 min",
+      "genre": ["Biography", "Drama", "Family"],
+      "directors": "Michael Curtiz",
+      "actors": ["James Cagney", "Joan Leslie", "Walter Huston", "Richard Whorf"],
+      "plot": "The life of the renowned musical composer, playwright, actor, dancer, and singer George M. Cohan.",
+      "posterUrl": "/M/MV5BNDQ2MWJjNjUtYmVlNS00YjUzLWFkMDEtYzE2MjkxOTljMmI1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX140_CR0,0,140,209_AL_.jpg "
+    }
+  ]
+  
